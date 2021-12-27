@@ -15,7 +15,8 @@ Starting from
 
 This project will take through a real example code using Stripe and Twilio and we will be writing every single piece of code from scratch
 
-# Architecture Diagram
+##Architecture Diagram
 
+- Goto ArchitectureDiagram.PNG file
 
-<img width="1022" alt="ArchitectureDiagram.PNG" src="https://github.com/mdmhasan307/java-software-testing/blob/a46aac0791141d26003cdc97c011f8cb226c7c5e/Architecture%20Diagram.PNG">
+<img width="1022"  src="https://github.com/mdmhasan307/java-software-testing/blob/a46aac0791141d26003cdc97c011f8cb226c7c5e/Architecture%20Diagram.PNG">
