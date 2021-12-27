@@ -18,4 +18,4 @@ This project will take through a real example code using Stripe and Twilio and w
 # Architecture Diagram
 
 
-<img width="1022" alt="Architecture Diagram.PNG" src="./">
+<img width="1022" alt="ArchitectureDiagram.PNG" src="https://github.com/mdmhasan307/java-software-testing/blob/a46aac0791141d26003cdc97c011f8cb226c7c5e/Architecture%20Diagram.PNG">
